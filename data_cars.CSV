@@ -1,0 +1,412 @@
+,TITLES,PRICES,MARQUE,MODELE,ANNEE,CARBURANT,KILOMETRAGE,PUISSANCE,VILLE
+0,dacia duster 2*4,115000.0,dacia,duster,2015,Diesel,177000,6.0,casablanca
+1,ford titanium automatique,142000.0,ford,fusion,2015,Diesel,181000,8.0,casablanca
+2,opel astra 2017,120000.0,opel,astra,2017,Diesel,160000,7.0,safi
+3,hyundai tucson automatique,275000.0,hyundai,tucson,,Diesel,88000,7.0,safi
+4,peugeot 308,162000.0,peugeot,308,2018,Diesel,145000,6.0,casablanca
+5,megane 3,97000.0,renault,megane,2011,Diesel,215000,7.0,casablanca
+6,peugeot 206 à vendre,46000.0,peugeot,206,2008,Essence,160000,8.0,tanger
+7,toyota yaris 2000 essence,40000.0,toyota,yaris,2000,Essence,0,7.0,casablanca
+8,ford fiesta titanium,118000.0,ford,fiesta,2015,Diesel,154000,6.0,kénitra
+9,fiat 500x,120000.0,fiat,500,2016,Diesel,145000,6.0,tanger
+10,ford fiesta essence,105000.0,ford,fiesta,2019,Essence,112000,6.0,mohammedia
+11,citroen berlingo diesel manuelle 2022,195000.0,citroen,berlingo,,Diesel,12628,7.0,rabat
+12,peugeot 307 à vendre mli7a rkeb o ziid,50000.0,peugeot,307,2006,Essence,220000,8.0,meknès
+13,fiat doblo,130000.0,fiat,doblo,,Diesel,87000,6.0,rabat
+14,subaru legacy sport 2012 vignette payee,40000.0,subaru,legacy,2012,Essence,147000,11.0,casablanca
+15,range rover evoque full,250000.0,rover,sd1,2017,Diesel,1870000,6.0,casablanca
+16,opel astra diesel manuelle 2017,147000.0,opel,astra,2017,Diesel,139000,6.0,casablanca
+17,honda accord diesel manuelle 2008 à dar bouazza,79000.0,honda,accord,2008,Diesel,276000,8.0,casablanca
+18,jeep grand cherokee bonne etat 2015,125000.0,jeep,grand cherokee,2015,Diesel,205000,12.0,casablanca
+19,à vendre ford fusion,55000.0,ford,fusion,2011,Essence,120000,7.0,agadir
+20,vente sportage 2024,300000.0,kia,sportage,,Diesel,10600,6.0,casablanca
+21,mercedes benze class e250,65000.0,mercedes-benz,classe e,1999,Diesel,30000,11.0,guelmim
+22,dacia sandero essence 2021 à mohammedia beni khlef,87000.0,dacia,sandero,2019,Essence,79000,6.0,mohammedia
+23,une voiture a vendre,85000.0,volkswagen,polo,2011,Diesel,200000,5.0,sidi rahal
+24,passat carat b6 2 litres ttes options à vendre.,95000.0,volkswagen,passat,2007,Diesel,245500,8.0,casablanca
+25,chevrolet cruze,80000.0,chevrolet,cruze,2014,Diesel,199050,8.0,casablanca
+26,voitures occasion,85000.0,volkswagen,polo,2011,Diesel,200000,5.0,sidi rahal
+27,dacia sandero stepway,130000.0,dacia,sandero,2017,Diesel,100000,6.0,meknès
+28,peugeot 206 a vendre a ain aouda,50000.0,peugeot,206,2013,Essence,10000,6.0,temara
+29,honda accord 2.2 i-dtec,98000.0,honda,accord,2010,Diesel,278000,9.0,rabat
+30,mini one automatique 2018,183000.0,mini,one,2018,Essence,55000,9.0,casablanca
+31,mini cooper 2007,90000.0,mini,cooper coupé,2007,Essence,40000,9.0,casablanca
+32,uno essence 1998,19000.0,fiat,uno,1998,Essence,220000,6.0,casablanca
+33,vendre aumbulance,200000.0,renault,trafic,2014,Diesel,9000,7.0,tout le maroc
+34,nissan xtrail 2019 7 places,215000.0,nissan,x-trail,2019,Diesel,49000,6.0,fès
+35,renault symbol essence manuelle 2011 à casablanca,50000.0,renault,symbol,2011,Essence,194000,7.0,casablanca
+36,citroën c3,90000.0,citroen,c3,2017,Diesel,0,6.0,meknès
+37,citroen berlingo,143000.0,citroen,berlingo,2019,Diesel,122000,6.0,mohammedia
+38,dokker 2020 1 ère main,135000.0,dacia,dokker,2019,Diesel,32500,6.0,meknès
+39,fiat 500x automatique,145000.0,fiat,500,2018,Diesel,130000,6.0,casablanca
+40,opel corsa 2022,145000.0,opel,corsa,2019,Diesel,28000,6.0,safi
+41,toyota corolla 2014,120000.0,toyota,corolla,2014,Diesel,210000,5.0,el kelaa des sraghna
+42,voiture vw jetta en excellent état,175000.0,volkswagen,jetta,2018,Diesel,86000,8.0,rabat
+43,citroen c3,53000.0,citroen,c3,2008,Essence,230000,6.0,kénitra
+44,opel corsa,79000.0,opel,corsa,2016,Essence,122000,8.0,mohammedia
+45,kadjar en très bon état à vendre,215000.0,renault,espace,2019,Diesel,80000,6.0,casablanca
+46,siena nkia,27000.0,fiat,siena elx,1999,Essence,0,5.0,casablanca
+47,renault express 2023 excellent,148000.0,renault,express,,Diesel,25000,6.0,casablanca
+48,honda jazz manuel essence,108000.0,honda,jazz,,Essence,94000,8.0,casablanca
+49,mercedes cls 250d,213000.0,mercedes-benz,classe cls,2014,Diesel,160000,8.0,rabat
+50,alfa romeo giulietta sprint bva,183000.0,alfa romeo,guilia,2019,Diesel,112000,6.0,rabat
+51,206 hdi bonne état jamais touche,56000.0,peugeot,206,2006,Diesel,230000,6.0,casablanca
+52,audi a4,1830000.0,audi,a4,2018,Diesel,200000,8.0,casablanca
+53,renault captur diesel automatique 2019,165000.0,renault,zoe,2019,Diesel,107000,6.0,casablanca
+54,clio2 classic,65000.0,renault,clio,2006,Diesel,171700,6.0,kénitra
+55,punto a vendre,59000.0,fiat,punto,2013,Essence,188000,6.0,berrechid
+56,toyota corolla bon état,163000.0,toyota,corolla,2017,Diesel,69000,5.0,rabat
+57,renault clio iv - 2017 essence,100000.0,renault,clio,2017,Essence,33000,5.0,marrakech
+58,audi q5 quattro,340000.0,audi,q5,,Diesel,113000,11.0,marrakech
+59,r4 gtl,35000.0,renault,r4,1993,Essence,350000,6.0,casablanca
+60,renault megane sedan dci-premiere main-annee 2020,190000.0,renault,megane,,Diesel,34000,6.0,casablanca
+61,belle voiture,58000.0,toyota,corolla,2004,Diesel,0,8.0,casablanca
+62,toyota hilux,78000.0,toyota,hilux,2006,Diesel,0,6.0,agadir
+63,peugeot 306,45000.0,peugeot,306,2000,ديزل,360000,7.0,agadir
+64,vend audi q5 2016,168000.0,audi,q5,2016,Diesel,308000,8.0,casablanca
+65,dacia duster,170000.0,dacia,duster,2019,Diesel,101900,6.0,marrakech
+66,renault talisman diesel automatique 2018,200000.0,renault,megane,2018,Diesel,156000,6.0,casablanca
+67,golf 4 2001,20000.0,volkswagen,golf,2001,Diesel,0,6.0,casablanca
+68,bmw x5,110000.0,bmw,x5,2007,Diesel,230000,12.0,casablanca
+69,fiat grande punto,50000.0,fiat,punto,2006,Essence,54000,6.0,el jadida
+70,suzuki silerio 1ème mah,67000.0,suzuki,celerio,2012,Essence,117000,6.0,casablanca
+71,clio 5 entrée de gamme immatriculation rabat,150000.0,renault,clio,,Diesel,40000,6.0,casablanca
+72,voiture sq5,220000.0,audi,sq5,2014,Diesel,140450,11.0,casablanca
+73,fiat 500x model 2018 manuelle 140000km,138000.0,fiat,500,2018,Diesel,140000,6.0,casablanca
+74,mini cooper,145000.0,mini,cooper coupé,2015,Essence,67000,9.0,casablanca
+75,dacia logan,58000.0,dacia,logan,2014,Diesel,121000,6.0,casablanca
+76,kangoo d65 à vendre,60000.0,renault,kangoo,2005,Diesel,340000,7.0,casablanca
+77,voiture neuf,220000.0,peugeot,3008,2019,Diesel,98000,8.0,casablanca
+78,porsche cayenne 2015 importée neuve,400000.0,porsche,cayenne,2015,Diesel,200000,12.0,rabat
+79,hyundai elantra gls,190000.0,hyundai,elantra,2019,Diesel,75000,6.0,tout le maroc
+80,ford focus presque neuve,170000.0,ford,focus,2014,Diesel,79000,6.0,marrakech
+81,hyundai elantra gls,190000.0,hyundai,elantra,2019,Diesel,75000,6.0,tout le maroc
+82,hyundai elantra en très bon état,180000.0,hyundai,elantra,2019,Diesel,98000,6.0,temara
+83,fiat 500x model 2018 manuelle 140000km,138000.0,fiat,500,2018,Diesel,140000,6.0,casablanca
+84,citroen xsara,35000.0,citroen,xsara,2000,Diesel,300000,7.0,temara
+85,volkswagen polo,65000.0,volkswagen,polo,2007,Diesel,319000,6.0,salé
+86,dacia duster fin 2019,153000.0,dacia,duster,2019,Diesel,200000,6.0,casablanca
+87,peugeot 307 modèle 2006 essence diwana 2006 a vend,50000.0,peugeot,307,2006,Essence,0,8.0,mohammedia
+88,bmw serie 07,210000.0,bmw,serie 7,,Diesel,144000,12.0,casablanca
+89,opel combo lif 2019,145000.0,opel,combo,2019,Diesel,170000,6.0,casablanca
+90,508 faul options,140000.0,peugeot,508,2017,Diesel,180000,6.0,temara
+91,mercedes classe a à vendre modèle 2013,155000.0,mercedes-benz,classe a,2013,Diesel,143000,7.0,rabat
+92,vente dacia docker excellent etat,145000.0,dacia,dokker,2019,Diesel,5000,7.0,temara
+93,tiguan r-line 2022 dd 2025,475000.0,volkswagen,tiguan,,ديزل,95000,20.0,rabat
+94,bmw série 1,130000.0,bmw,serie 1,2012,Essence,0,8.0,casablanca
+95,vente qashqai,160000.0,nissan,qashqai ~2,2015,Diesel,0,6.0,casablanca
+96,citroen c4 diesel manuelle 2008 à casablanca,75000.0,citroen,c4,2008,Diesel,207000,6.0,casablanca
+97,jeep renegade 1.6 longitude s&s 120 limi,142000.0,jeep,renegade,2016,Diesel,190000,6.0,rabat
+98,citroën,55000.0,citroen,berlingo,2008,Diesel,900,7.0,tanger
+99,a vendre daihatsu sirion,48000.0,daihatsu,sirion,2009,Essence,130000,7.0,mohammedia
+100,voiture à vendre,220000.0,volkswagen,tiguan,2018,Diesel,145000,20.0,marrakech
+101,tanger maroc,55000.0,citroen,berlingo,2008,Diesel,900,7.0,tanger
+102,dokker van 2020 diesel,110000.0,dacia,dokker,,Diesel,103000,6.0,marrakech
+103,hyndai ix35 à vendre,145000.0,hyundai,ix35,2013,Diesel,113000,8.0,casablanca
+104,vendre passat 2017,200000.0,volkswagen,passat,2017,Diesel,117000,8.0,agadir
+105,punto a vendre,60000.0,fiat,punto,2013,Essence,188000,7.0,berrechid
+106,je mets en vente ma voiture volkswagen polo,100000.0,volkswagen,polo,2016,Essence,94000,6.0,tanger
+107,voiture tres bon état,36500.0,chery,a113,2012,Essence,120000,7.0,bouskoura
+108,volkswagen eos 2008 (boite automatique),70000.0,volkswagen,eos,2008,Essence,233108,11.0,casablanca
+109,renault clio 2 essence,54000.0,renault,clio,2008,Essence,280000,7.0,marrakech
+110,automobile en bon état et economique,32000.0,chery,qq,2007,Essence,160000,5.0,mohammedia
+111,toyota corolla cross essence automatique 2022,295000.0,toyota,corolla,,Essence,81000,10.0,taroudant
+112,toyota corolla diesel manuelle 2007,69999.0,toyota,corolla,2007,Diesel,547000,8.0,casablanca
+113,citroën c4 diesel 2007,66000.0,citroen,c4,2007,Diesel,190000,7.0,marrakech
+114,opel combo kif,14900.0,opel,combo,2019,Diesel,17000,6.0,casablanca
+115,cotroën c4,125000.0,citroen,c4,2015,Diesel,93000,6.0,tanger
+116,auto à vendre,39000.0,renault,symbol,2009,Essence,300,7.0,casablanca
+117,voitures peugeot 208 a vendere a rabat,90000.0,peugeot,208,2017,Diesel,100000,6.0,rabat
+118,peugeot 2008,160000.0,peugeot,2008,2019,Diesel,52000,6.0,mohammedia
+119,peugeot landtrek diesel manuelle 2022 à el jadida,330000.0,peugeot,expert,,Diesel,7500078000,8.0,el jadida
+120,audi a4 diesel fin novembre 2015 - 1ère main,175000.0,audi,a4,2015,Diesel,145000,8.0,salé
+121,peugeot 106,15000.0,peugeot,106,1993,Essence,29900,8.0,casablanca
+122,toyota corolla première main excellant état diesel,140000.0,toyota,corolla,2014,Diesel,79000,6.0,meknès
+123,touareg model 2019 excellent etat,300000.0,volkswagen,touareg,2019,Diesel,95000,12.0,marrakech
+124,renault clio 5 diesel manuelle 2022 à rabat,160000.0,renault,clio,,Diesel,0,6.0,rabat
+125,duster tout option,110000.0,dacia,duster,2010,Diesel,170000,6.0,casablanca
+126,volvo premiere main,30000.0,volvo,s40,1999,Diesel,180000,6.0,martil
+127,r4 gtl,39000.0,renault,r4,1993,Essence,350000,6.0,casablanca
+128,301 essence très bonne état,65000.0,peugeot,301,2015,Essence,111000,6.0,temara
+129,ford focus trend plus,165000.0,ford,focus,2018,Diesel,165000,6.0,marrakech
+130,ford fusion titanium x - très bon état,185000.0,ford,fusion,2016,Diesel,184000,8.0,casablanca
+131,ابحث عن سيارة,35000.0,renault,clio,2005,Essence,0,20.0,marrakech
+132,mercedes a180,158000.0,mercedes-benz,classe a,2013,Diesel,180000,7.0,casablanca
+133,chana benin model 2009 bon état,45000.0,kia,picanto,2009,Essence,160000,7.0,agadir
+134,renault megane sedan,145000.0,renault,megane,2019,Diesel,276000,6.0,casablanca
+135,jazz a vendre,125000.0,honda,jazz (2001),2016,Essence,82000,8.0,rabat
+136,kia picanto,105000.0,kia,picanto,2016,Essence,40000,6.0,larache
+137,renault kangoo commerce,105000.0,renault,kangoo,2019,Diesel,80000,6.0,larache
+138,opel astra 2019 manuel diesel,173000.0,opel,astra,2019,Diesel,69000,6.0,agadir
+139,seat ibiza,84000.0,seat,ibiza,2013,Diesel,168400,6.0,mohammedia
+140,jeep grand cherokee 2021,220000.0,jeep,grand cherokee,,Diesel,85000,12.0,casablanca
+141,grande punto 1.9 130cv,58000.0,fiat,punto,2006,Diesel,260000,8.0,casablanca
+142,berlingo tres bon etat,100000.0,citroen,berlingo,2008,Diesel,100000,7.0,casablanca
+143,ford fiesta,110000.0,ford,fiesta,2017,Diesel,173000,6.0,tanger
+144,ford fusion 2016 a vendre,12000000.0,ford,fusion,2016,Diesel,0,8.0,casablanca
+145,opel prix sacré,1.0,opel,meriva,2012,Diesel,0,7.0,casablanca
+146,ford fiesta 2007 essence,50000.0,ford,fiesta,2007,Essence,298000,7.0,mohammedia
+147,palio essence,43000.0,fiat,palio,2004,Essence,0,7.0,salé
+148,opel meriva 2,65000.0,opel,meriva,2012,Diesel,0,7.0,casablanca
+149,opel meriva b,70000.0,opel,meriva,2012,Diesel,0,7.0,casablanca
+150,opel corsa essence modèle 2009,67000.0,opel,corsa,2009,Essence,180000,7.0,casablanca
+151,vente dacia logan 2019 casa dar bouazza,128000.0,dacia,logan,2019,Diesel,61000,6.0,casablanca
+152,opel meriva b,68000.0,opel,meriva,2012,Diesel,0,7.0,casablanca
+153,سيارة أنيقة,255000.0,nissan,qashqai,,Essence,39000,8.0,tanger
+154,opel meriva b,70000.0,opel,meriva,2012,Diesel,242000,7.0,casablanca
+155,ford custom,170000.0,ford,tourneo,2017,Diesel,150000,9.0,meknès
+156,opel meriva b,72000.0,opel,meriva,2012,Diesel,242000,7.0,casablanca
+157,سيارة للبيع,54000.0,renault,megane,2003,Diesel,0,7.0,kénitra
+158,fiat uno à vendre model 11/99,20000.0,fiat,uno,1999,Diesel,400000,6.0,tanger
+159,accent,40000.0,hyundai,accent,2004,Diesel,230000,6.0,mohammedia
+160,seat leon model 2016,142000.0,seat,leon,2016,ديزل,168000,6.0,agadir
+161,volkswagen touareg à vendre,560000.0,volkswagen,touareg,,Diesel,75000,20.0,casablanca
+162,ford kuga,270000.0,ford,kuga,,Diesel,50000,7.0,kénitra
+163,pour des raisons personnelle,68000.0,citroen,c3,2012,Essence,0,6.0,casablanca
+164,clio 4 2015,100000.0,renault,clio,2015,Diesel,171000,6.0,casablanca
+165,peugeot 308 toutes options - état neuf - occasion,160000.0,peugeot,308,2019,Diesel,40000,6.0,casablanca
+166,peugeot 308 toutes options - état neuf - occasion,160000.0,peugeot,308,2019,Diesel,40000,6.0,casablanca
+167,voiture ford transit fourgon,170000.0,ford,transit,2017,Diesel,124714,9.0,casablanca
+168,passat b6 2008 ded 2013,105000.0,volkswagen,passat,2008,Diesel,300000,8.0,casablanca
+169,voiture qashqai 2023 èssence automatique,230000.0,nissan,qashqai,,Essence,50000,8.0,nador
+170,opel meriva b,72000.0,opel,meriva,2012,Diesel,242000,7.0,casablanca
+171,dacia stepway a vendre,128000.0,dacia,sandero,2019,Diesel,115000,6.0,casablanca
+172,mini lifan 320,32000.0,mini,mini,2011,Essence,130000,8.0,casablanca
+173,volkswagen touran 7p ttes options,115000.0,volkswagen,touran,2012,Diesel,395000,8.0,casablanca
+174,swift 2014,72000.0,suzuki,swift,2014,Essence,110000,6.0,rabat
+175,passât b8,1.0,volkswagen,passat,2018,Diesel,157000,8.0,casablanca
+176,bmw serie 1 118i essence,102000.0,bmw,serie 1,2009,Essence,179900,11.0,mohammedia
+177,nissan qashqai diesel manuelle 2011 à casablanca,116000.0,nissan,qashqai,2011,Diesel,0,6.0,casablanca
+178,bmw série 1 diesel manuelle 2008,100000.0,bmw,serie 1,2008,Diesel,188000,8.0,casablanca
+179,peugeot 206 diesel hdi,45000.0,peugeot,206,2004,Diesel,0,7.0,casablanca
+180,touareg à vendre,165000.0,volkswagen,touareg,2016,Diesel,200000,12.0,casablanca
+181,vendre clio 4 2021,136000.0,renault,clio,,Diesel,46000,6.0,casablanca
+182,honda cr-v 2015 d'occasion à marrakech,158000.0,honda,cr-v,2015,Diesel,0,6.0,marrakech
+183,caddy volkswagen a vendre,85000.0,volkswagen,caddy,2005,Diesel,300000,8.0,khemisset
+184,mazda cx-7,95000.0,mazda,cx_7,2011,Diesel,282000,9.0,meknès
+185,hyundai accent,105000.0,hyundai,accent,2019,Diesel,140000,6.0,casablanca
+186,jeep grand cherokee 4×4,280000.0,jeep,grand cherokee,,Diesel,59480,17.0,casablanca
+187,سيارة للكراء,250.0,peugeot,bipper,2015,Diesel,210000,6.0,tanger
+188,belle opel crossland x,162000.0,opel,mokka,2019,Diesel,100000,6.0,meknès
+189,susuki selerio,55000.0,suzuki,celerio,2012,Essence,99000,6.0,rabat
+190,ford fiesta,118000.0,ford,fiesta,2017,Diesel,150000,6.0,casablanca
+191,santafe 2013 premiere main,158000.0,hyundai,santa fe,2013,Diesel,262000,8.0,rabat
+192,volvo c30 r-design,105000.0,volvo,c30,2010,Diesel,150000,6.0,casablanca
+193,kango 2016 bonne etat,96000.0,renault,kangoo,2016,Diesel,198000,6.0,el jadida
+194,santa fe 2013 premiere main,158000.0,hyundai,santa fe,2013,Diesel,262000,8.0,rabat
+195,dacia sandero stepway prestige,115000.0,dacia,sandero,2018,Diesel,87,6.0,tanger
+196,ford c-max titanium 2013,120000.0,ford,c-max,2013,Diesel,170000,6.0,rabat
+197,renault capture 2020,175000.0,renault,zoe,2019,Diesel,62100,6.0,casablanca
+198,stepway 1 ère main,122000.0,dacia,sandero,2018,Diesel,120000,7.0,casablanca
+199,toyota yaris diesel 2015 tel 0614410617,93000.0,toyota,yaris,2015,Diesel,178000,6.0,casablanca
+200,voiture mercedes coupé gle 350 - amg line+,460000.0,mercedes-benz,350,2018,Diesel,108000,12.0,casablanca
+201,vente jeep renegade très bonne état toutes options,179000.0,jeep,renegade,2018,Diesel,45000,6.0,casablanca
+202,land rover range rover autobiography diesel,365000.0,land rover,range rover,2015,Diesel,150000159000,18.0,casablanca
+203,volkswagen golf 3 essence - موديل 1993 ديوانة 2002,30000.0,volkswagen,golf,1993,Essence,0,8.0,imouzzer kandar
+204,voiture a vendre peugeot 407,73000.0,peugeot,407,2009,Diesel,410000,6.0,beni mellal
+205,"audi a5 2l, 2015 .",195000.0,audi,a5,2015,Diesel,135000,8.0,casablanca
+206,sandero stepway 2021,135000.0,dacia,sandero,,Diesel,109,6.0,tout le maroc
+207,toyota yaris à vendre,110000.0,toyota,yaris,2015,Diesel,43000,6.0,casablanca
+208,dacia duster sur casablanca,165000.0,dacia,duster,2019,Diesel,71000,6.0,casablanca
+209,mercedes c 220,250000.0,mercedes-benz,c 200,2017,Diesel,170000,8.0,casablanca
+210,fiat doblo fourgonnette frigorifique carrier,87000.0,fiat,doblo,2016,Diesel,238000,5.0,meknès
+211,classe e 220 finition amg,430000.0,mercedes-benz,classe e,2017,Diesel,101000,8.0,casablanca
+212,ford focus 2012,100500.0,ford,focus,2012,Diesel,230000,6.0,marrakech
+213,fiat 500 à vendre fès,119000.0,fiat,500,,Essence,30000,6.0,fès
+214,clio2 diesel 2008diwana2006,43000.0,renault,clio,2000,Diesel,17000,7.0,casablanca
+215,daihatsu siron,48000.0,daihatsu,sirion,2008,Essence,106800,6.0,casablanca
+216,volkswagen golf 7 - modèle 2018 - excellent état,182000.0,volkswagen,golf,2018,Diesel,85695,8.0,marrakech
+217,voitures à vendre,123000.0,audi,a4,2009,Diesel,167000,8.0,casablanca
+218,mazda 3 diesel 6 cv a vendre,87000.0,mazda,3,2011,Diesel,100000,6.0,salé
+219,vente dacia logan 1ère main,95000.0,dacia,logan,2016,Diesel,126500,6.0,casablanca
+220,touareg v6 tdi - boite auto,160000.0,volkswagen,touareg,2015,Diesel,132000,12.0,casablanca
+221,vente de lodgy dacia,100000.0,dacia,duster,2014,Essence,125000,9.0,agadir
+222,bmw serie 1 118i,87000.0,bmw,serie 1,2009,Essence,179600,11.0,mohammedia
+223,2012 dacia duster,108000.0,dacia,duster,2012,Essence,170000,6.0,agadir
+224,jeep renegade modèle 2022,213000.0,jeep,renegade,,Diesel,74000,6.0,casablanca
+225,dokker a vendre,165000.0,dacia,dokker,,Diesel,60000,6.0,sidi kacem
+226,jaguar xf,140000.0,jaguar,xf,2015,Diesel,176000,8.0,casablanca
+227,a vendre skoda superb,210000.0,skoda,superb,2019,Diesel,216000,8.0,casablanca
+228,renault 21 coupe à vendre,24000.0,renault,21,1989,Diesel,0,8.0,casablanca
+229,vw golf 7 2013 1.6 tdi pack gtd 7.5,178000.0,volkswagen,golf,2013,Diesel,244000,6.0,temara
+230,peugeot 206 a vendre,45000.0,peugeot,206,2004,Diesel,0,6.0,casablanca
+231,dacia spring electrique automatique 2024,146000.0,dacia,solenzo,,,1797,4.0,benslimane
+232,kia cerato diesel toutes options,59000.0,kia,cerato,2007,Diesel,2222,8.0,casablanca
+233,jaguar xe sport r,190000.0,jaguar,xf,2016,Diesel,200000,8.0,casablanca
+234,vente mercedes,115000.0,mercedes-benz,c220,2006,Diesel,250000,8.0,rabat
+235,clio 4 intense 2020,141000.0,renault,clio,,Diesel,79000,6.0,salé
+236,ford fusion titanium plus x,165000.0,ford,fusion,2017,Diesel,197000,8.0,fès
+237,scoda octavia a vendre,153000.0,skoda,octavia,2017,Diesel,194000,8.0,marrakech
+238,vente voiture kuga diesel model septembre 2021,250000.0,ford,kuga,2019,,490000,6.0,casablanca
+239,à saisir belle berline,145000.0,toyota,corolla,2018,Diesel,105000,6.0,casablanca
+240,opel corsa,68000.0,opel,corsa,2014,Diesel,32000,4.0,tanger
+241,peugeot 406,18000.0,peugeot,406,2000,Essence,0,10.0,casablanca
+242,ford kuga 2017 a vendre,185000.0,ford,kuga,2017,Diesel,90000,8.0,casablanca
+243,peugeot 205,27000.0,peugeot,205,1988,Diesel,80000,6.0,casablanca
+244,dacia dokir,114000.0,fiat,500,,Essence,43000,7.0,rabat
+245,fiat 500 dolcevita automatique,150000.0,renault,clio,2017,Essence,148000,6.0,casablanca
+246,clio 4,118000.0,kia,picanto,2007,Essence,180000,6.0,casablanca
+247,picanto 4 électrique clima 2007,48500.0,mercedes-benz,classe e,2001,Diesel,200000,9.0,casablanca
+248,mercedes 220e cdi,62000.0,porsche,macan,2019,Essence,52000,12.0,casablanca
+249,porsche macan,600000.0,audi,a4,2017,Diesel,120000,8.0,agadir
+250,audi a4 automatic,300000.0,dacia,dokker,2018,ديزل,180000,6.0,taroudant
+251,porsche panamera 4 hybrid g2,1130000.0,mercedes-benz,classe a,2016,Diesel,215000,6.0,casablanca
+252,mercedes classe a 180,205000.0,renault,megane,2009,Diesel,325000,7.0,salé
+253,renault megane 3 diesel manuelle 2009,88000.0,fiat,punto,2013,Essence,188000,7.0,berrechid
+254,punto a vendre,67000.0,opel,corsa,2014,Diesel,269000,5.0,berrechid
+255,voiture à vendre,130000.0,skoda,fabia,2017,Essence,100000,7.0,casablanca
+256,voiture à vendre,89000.0,mercedes-benz,c220,2015,Diesel,166000,9.0,casablanca
+257,mercedes class c model fin 2015 dedouane 2017,282000.0,toyota,corolla,2018,Diesel,100000,6.0,casablanca
+258,demande emploi,158000.0,dacia,sandero,2016,Diesel,72000,6.0,fès
+259,touareg baroudeur plus automatique,235000.0,mazda,cx_7,2011,Diesel,160000,9.0,marrakech
+260,mazda cx 7 2011,105000.0,toyota,corolla,1998,Diesel,300000,8.0,casablanca
+261,corolla diesel mod 98 - bon état,32000.0,kia,picanto,2007,Essence,145000,6.0,agadir
+262,kia picanto essence,48000.0,volkswagen,touareg,2010,Diesel,205000,10.0,casablanca
+263,touareg à vendre,150000.0,honda,cr-v,2010,Essence,73000,11.0,casablanca
+264,honda crv,10900.0,fiat,500,2017,Diesel,16500,5.0,rabat
+265,fiat 500 ( première main),800000.0,opel,astra,2012,Diesel,120000,8.0,casablanca
+266,opel astra,115000.0,bmw,x5,2005,Diesel,210000,12.0,casablanca
+267,bmw x5 pack luxe toutes options,98000.0,renault,scenic,2005,Diesel,135000,6.0,tanger
+268,renault scenic 1.5dci,82000.0,skoda,fabia,2004,Diesel,300000,8.0,el jadida
+269,skoda fabia,57000.0,volkswagen,touran,2007,Diesel,360000,8.0,casablanca
+270,volkswagen touran,115000.0,peugeot,partner,2009,Diesel,200000240000,7.0,el jadida
+271,peogeut partner 2009,57000.0,volkswagen,passat,2005,Diesel,25000,8.0,casablanca
+272,volkswagen passat,80000.0,kia,picanto,2006,Essence,140000,6.0,casablanca
+273,kia picanto,42000.0,peugeot,207,2010,Essence,150000,8.0,rabat
+274,peugeot 207,72000.0,opel,astra,2010,Diesel,120000,7.0,salé
+275,opel astra,100000.0,peugeot,208,2014,Diesel,19000,6.0,casablanca
+276,peugeot 208 a vendre,100000.0,renault,kangoo,2010,Diesel,85000,6.0,casablanca
+277,renault kangoo diesel,90000.0,kia,picanto,2009,Essence,0,5.0,casablanca
+278,kia picanto,48000.0,peugeot,206,2009,Diesel,150000,6.0,casablanca
+279,renault clio bon état salé,115000.0,kia,picanto,2007,Essence,200000,6.0,rabat
+280,kia picanto,47000.0,dacia,dokker,2014,Diesel,190000,6.0,casablanca
+281,dokker,85000.0,seat,leon,2016,Diesel,67000,6.0,casablanca
+282,seat leon 1.6 tdi 110cv style 2016,160000.0,opel,corsa,2009,Diesel,0,5.0,rabat
+283,camion kia contira,90000.0,mazda,2,2010,Essence,162000,8.0,casablanca
+284,mazda 2 a vendre,55000.0,peugeot,207,2012,Diesel,137000,6.0,salé
+285,peugeot 207 diesel,87000.0,volkswagen,touran,2007,Diesel,360000,8.0,casablanca
+286,volkswagen touran,120000.0,mercedes-benz,c220,2011,Diesel,160000,9.0,salé
+287,mercedes c220 blueefficiency,235000.0,peugeot,308,2008,Diesel,251000,6.0,casablanca
+288,peugeot 308 diesel modèle 2008,86000.0,audi,a3,2009,Diesel,90000,8.0,casablanca
+289,audi a3 diesel 2009,109000.0,peugeot,206,2002,Essence,180000,9.0,casablanca
+290,peugeot 206 cc,44000.0,mercedes-benz,220,2010,Diesel,170000,9.0,nador
+291,mercedes amg w204,185000.0,volkswagen,touran,2008,Diesel,138000,8.0,casablanca
+292,volkswagen touran 2008,140000.0,land rover,range rover,2018,Diesel,0,9.0,marrakech
+293,range rover velar neuve 0km,980000.0,renault,clio,2014,Diesel,80000,5.0,casablanca
+294,clio 4 expression (demi-option),120000.0,bmw,525 tds,1997,Diesel,300000,10.0,berkane
+295,bmw série 5,37000.0,audi,a4,2016,Diesel,170000,4.0,marrakech
+296,audi a4 sline,110000.0,fiat,500,2017,Diesel,18000,5.0,casablanca
+297,fiat 500 vintage diesel,125000.0,renault,megane,1997,Diesel,30000,7.0,marrakech
+298,megane classic,45000.0,citroen,xsara,2001,Diesel,34258,7.0,casablanca
+299,c4 picasso,95000.0,hyundai,accent,2006,Essence,150000,7.0,casablanca
+300,hyndai accent 2006,41000.0,citroen,c4,2011,Diesel,93000,6.0,casablanca
+301,c4 dynamique,115000.0,citroen,xsara,2003,Diesel,0,7.0,casablanca
+302,vente xsara,43000.0,hyundai,i20,2012,Essence,50000,7.0,casablanca
+303,hyundai i 20,80000.0,kia,picanto,2006,Essence,155000,6.0,rabat
+304,kia picanto,47000.0,fiat,doblo,2012,Diesel,73600,20.0,dakhla
+305,fiat doblo 1.3,30000.0,bmw,200,2016,Diesel,35000,8.0,casablanca
+306,bmw serie 2 active tourer,210000.0,toyota,starlet,1998,Essence,20000,7.0,casablanca
+307,golf 6,112000.0,peugeot,508,2013,Diesel,100000,6.0,casablanca
+308,peugeot 508 full option,125000.0,peugeot,301,2015,Diesel,117358,6.0,meknès
+309,peugeot 301,110000.0,toyota,corolla,2005,Diesel,0,8.0,casablanca
+310,voiture a vendre,35000.0,citroen,xsara,2003,Diesel,69000,7.0,casablanca
+311,vente xsara,43000.0,renault,fluence,2013,Diesel,179000,7.0,casablanca
+312,volkswagen polo diesel - 2011,105000.0,citroen,berlingo,2006,Diesel,350000,6.0,rabat
+313,citroën birlngo a vendre,53000.0,volkswagen,golf,1987,Diesel,0,6.0,casablanca
+314,golf gtdi 2,37000.0,fiat,uno,2001,Diesel,300350,7.0,agadir
+315,fiat uno 2001,36000.0,peugeot,407,2009,Diesel,200000,6.0,meknès
+316,peugeot 407hdi diesel,87000.0,ford,fiesta,2013,Diesel,58000,6.0,fès
+317,ford fiesta titanium,105000.0,hyundai,accent,2009,Diesel,56000,6.0,el jadida
+318,hyundai accent,42000.0,peugeot,205,1987,Diesel,0,6.0,casablanca
+319,vente peugeot 205,35000.0,ford,kuga,2014,Diesel,102000,8.0,marrakech
+320,honda jazz essence manuelle 2004,48000.0,hyundai,lentra,2015,Diesel,99000,6.0,casablanca
+321,hyundai elantra bva 2015,175000.0,volkswagen,polo,2007,Diesel,145,8.0,casablanca
+322,ford fiesta,90000.0,citroen,c4,2006,Diesel,0,6.0,marrakech
+323,c4 bonne etat,65000.0,volkswagen,golf,2002,Diesel,160000,8.0,agadir
+324,volkswagen golf 4 model 2002,90000.0,rover,serie 600,1997,Diesel,200000,8.0,casablanca
+325,vendre rover 620sdi,33000.0,volkswagen,passat cc,2000,Diesel,15000,8.0,casablanca
+326,ford focus 1.6 dtci,122000.0,dacia,logan,2017,Diesel,53000,6.0,casablanca
+327,vente d une logan en très bon état,100000.0,opel,corsa,2006,Essence,239000,6.0,mohammedia
+328,opel corsa,50000.0,dacia,logan,2017,Diesel,53000,6.0,casablanca
+329,vente de lohan modèle 2017,100000.0,volkswagen,golf,2008,Diesel,200000,8.0,casablanca
+330,golf model 2008,105000.0,toyota,yaris,2018,Essence,12300,6.0,casablanca
+331,toyota yaris lounge,125000.0,renault,megane,2001,Essence,202600,8.0,casablanca
+332,mégane 2001,40000.0,volkswagen,jetta,2018,Diesel,7000,8.0,el jadida
+333,r19 chamade a vendre,37000.0,audi,a3,2007,Diesel,270000,8.0,casablanca
+334,audi a3,103000.0,hyundai,accent,2018,Diesel,7800,6.0,casablanca
+335,hyundai accent,135000.0,renault,megane,2004,Diesel,0,6.0,fès
+336,megane classique modèle 2004,58000.0,bmw,318,2014,Diesel,155000,8.0,fès
+337,bmw,220000.0,dacia,logan,2015,Diesel,39000,6.0,casablanca
+338,dacia logan diesel2015,90000.0,peugeot,partner,2006,Diesel,200000,7.0,kénitra
+339,partner a vendre,61000.0,renault,clio,2002,Essence,190000,7.0,casablanca
+340,renault clio2,45000.0,honda,accord,2008,Diesel,258000,9.0,casablanca
+341,golf,80000.0,chevrolet,cruze,2013,Diesel,168000,8.0,guelmim
+342,i 10,55000.0,mercedes-benz,classe c,2009,Diesel,95000,9.0,kénitra
+343,mercedes benz classe c diesel 2009,195000.0,dacia,logan,2007,Diesel,140000,6.0,oujda
+344,dacia logan 2007,62000.0,peugeot,bipper,2013,Diesel,70000,6.0,casablanca
+345,peugeot bipper,60000.0,toyota,corolla,2008,Diesel,170000,8.0,marrakech
+346,toyota corolla millenium diesel,85000.0,peugeot,508,2012,Diesel,130000,8.0,casablanca
+347,peugeot 508 toute option,125000.0,volkswagen,jetta,2018,Diesel,9000,8.0,casablanca
+348,byd en excelent etat,480000.0,renault,clio,2015,Diesel,91000,6.0,rabat
+349,clion 4,115000.0,citroen,berlingo,2013,Diesel,100000,6.0,marrakech
+350,citroen nemo 2013,78000.0,maserati,ghibli,2016,Diesel,130000,8.0,casablanca
+351,maserati ghibli,370000.0,toyota,celica,1979,Essence,15000,9.0,casablanca
+352,mercedes classe a excellent état,225000.0,honda,accord,2007,Essence,190000,11.0,rabat
+353,honda accord,65000.0,citroen,c4,2007,Diesel,155000,6.0,casablanca
+354,citroën c4,75000.0,renault,megane,1999,Diesel,3000035000,6.0,casablanca
+355,renault mégane cc,42000.0,fiat,panda,2006,Essence,180000,6.0,el jadida
+356,fiat panda,47000.0,volkswagen,golf,2013,Diesel,150000,8.0,casablanca
+357,golf 7 gtd,168000.0,hyundai,i10,2012,Essence,130000,6.0,casablanca
+358,hyundai i10,60000.0,volkswagen,polo,2013,Essence,149000,6.0,rabat
+359,volkswagen polo,89000.0,peugeot,307,2007,Diesel,200000229000,6.0,kénitra
+360,peugeot 307 sw panoramique,86000.0,dacia,logan,2013,Diesel,175000,6.0,casablanca
+361,peugeot 206,50000.0,ford,transit,2008,Diesel,350000,9.0,oujda
+362,ford transit,115000.0,peugeot,partner,2008,Diesel,0,7.0,salé
+363,partner blanche a salé,55000.0,hyundai,accent,2014,Diesel,85000,6.0,temara
+364,hyundai accent,113000.0,honda,cr-v,2009,Essence,149000,11.0,casablanca
+365,geely skoda,60000.0,nissan,qashqai,2012,Diesel,178000,6.0,marrakech
+366,nissan qashqai,130000.0,ford,fiesta,2012,Diesel,169000,6.0,casablanca
+367,ford festa,86000.0,peugeot,205,1992,Essence,0,6.0,casablanca
+368,peugeot 205 essence,23000.0,volkswagen,golf,1986,Diesel,20000,6.0,casablanca
+369,golf gtd,35000.0,peugeot,306,1994,Diesel,0,8.0,casablanca
+370,peugeot 306,40000.0,volkswagen,jetta,2018,Diesel,9000,8.0,rabat
+371,mercedes,65000.0,peugeot,206,2009,Diesel,148000,6.0,casablanca
+372,206 hdi 2009,72000.0,citroen,c3,2006,Essence,0,6.0,marrakech
+373,citroën c3 2006 tt option essence,47000.0,ford,c-max,2015,Essence,16000,12.0,marrakech
+374,hyndai i30,110000.0,volkswagen,caddy,2014,Diesel,127000,6.0,casablanca
+375,citroen c4 essence -2005,45000.0,citroen,c4,2012,Diesel,120000,6.0,casablanca
+376,voiture c4 à vendre,110000.0,peugeot,205,1989,Diesel,95000,6.0,taroudant
+377,peugeot 205,38000.0,opel,corsa,2009,Essence,115000,6.0,rabat
+378,opel corsa,72000.0,renault,megane,2016,Diesel,50000,6.0,casablanca
+379,mégane 3 automatique modèle 2016,145000.0,ford,fiesta,2013,Diesel,70000,6.0,rabat
+380,scenic diesel,68000.0,chevrolet,cruze,2013,Diesel,94200,9.0,marrakech
+381,golf6 gtd av vendre had soualem,180000.0,volkswagen,passat cc,2011,Diesel,121000,9.0,berrechid
+382,volkswagen passat cc,159000.0,peugeot,partner,2010,Diesel,225000,6.0,marrakech
+383,peugeot partner,53000.0,citroen,c4,2007,Diesel,90000,6.0,tout le maroc
+384,c4 à vendre,70000.0,peugeot,308,2015,Diesel,16255,9.0,casablanca
+385,peugeot a vendre,120000.0,ford,c-max,2012,Diesel,280000,6.0,rabat
+386,toyota corolla diesel mecanique,43000.0,volkswagen,polo,2008,Diesel,179000,6.0,casablanca
+387,polo volkswagen,84000.0,hyundai,i10,2013,Essence,70000,6.0,casablanca
+388,polo5 diesel,66000.0,volkswagen,golf,2014,Diesel,0,6.0,marrakech
+389,golf 7 diesel,23000.0,hyundai,ix35,2015,Diesel,30000,6.0,casablanca
+390,hyundai ix35 a vendre,175000.0,toyota,corolla,2007,Diesel,360000,9.0,casablanca
+391,toyota corolla 2007 2.0 d,85000.0,hyundai,i30,2014,Diesel,66000,6.0,casablanca
+392,vente hyundai i30 bva,132000.0,volkswagen,passat,2016,Diesel,60000,6.0,casablanca
+393,passat cc 2016,246000.0,renault,laguna,2009,Diesel,136000,6.0,marrakech
+394,vente voiture renault laguna,96000.0,renault,clio,2014,Diesel,64000,6.0,safi
+395,clio 4 à vendre,114000.0,peugeot,208,2015,Diesel,100000,6.0,rabat
+396,peugeot 208,95000.0,ford,mondeo,2005,Diesel,281000,9.0,casablanca
+397,ford mondeo à vendre,58000.0,renault,grand kangoo,2011,Diesel,74000,6.0,berkane
+398,range rover evoque dynamique full option,300000.0,opel,astra,2009,Diesel,140000,6.0,kénitra
+399,ford fiesta 1.5 l tdci trend plus,109000.0,seat,leon,2007,Diesel,170000,9.0,safi
+400,fiat punto classic,50000.0,fiat,palio,2006,Diesel,171000,6.0,rabat
+401,vente renault r4 essence en bon etat,22000.0,peugeot,3008,2017,Diesel,32000,9.0,casablanca
+402,audi a4 diesel 2l 8cv manuel cuire 2007,120000.0,peugeot,309,1986,Essence,15500,6.0,fès
+403,suzuki celerio à vendre,52000.0,peugeot,308,2010,Diesel,98000,6.0,rabat
+404,toyota pikup,125000.0,dacia,dokker,2015,Diesel,56000,6.0,el jadida
+405,a vendre,65000.0,renault,kangoo,2011,Diesel,129000,6.0,agadir
+406,hyndai ix 35,190000.0,volkswagen,golf,1985,Diesel,500000,6.0,casablanca
+407,mercedes 190 92/2008,72000.0,ford,fiesta,2012,Diesel,168000,6.0,rabat
+408,fiat 1994,19000.0,renault,kangoo,2007,Diesel,186000,6.0,casablanca
+409,renault r5 a vendre,9000.0,honda,cr-v,2007,Essence,165000,12.0,mohammedia
+410,audi a4 s line,158000.0,fiat,500,2016,Essence,0,6.0,casablanca
