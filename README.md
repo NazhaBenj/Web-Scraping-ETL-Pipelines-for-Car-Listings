@@ -1,6 +1,1 @@
-# Maroc Annonce Cars Infos  
-Ce projet extrait et analyse les annonces de voitures au Maroc grâce au Web Scraping.  
-the objectifs of this project are :
-
-Retrieval of data on offers of car sales on avito.ma.
-Creating a learning model that allows car sellers and buyers to estimate the price in the market before making the decision.
+Web-Scraping-ETL-Pipelines-for-Car-Listings est un projet d'ingénierie de données qui permet d'extraire, transformer et charger (ETL) des données d'annonces de voitures à partir de la plateforme MarocAnnonce. Ce projet vise à fournir des insights sur le marché automobile marocain en collectant des informations clés telles que le prix, le modèle, l'année, et la région, puis en les stockant dans Snowflake pour une analyse ultérieure.
